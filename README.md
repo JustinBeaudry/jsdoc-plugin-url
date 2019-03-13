@@ -7,7 +7,7 @@ Generate [jsdoc][jsdoc] `@link` [inline tags][jsdoc-inline] from `@url` inline t
 The goal of this plugin is to prevent repetition in using `@link` tags. Define the url in your jsdoc config object,
 reference that url from an `@url` tag. 
 
-If you want to link to npm packages without predefining their URL see the [npm JSDoc plugin][]
+If you want to link to npm packages without predefining their URL see the [npm JSDoc plugin][npm-plugin].
 
 ## Configuration Overview
 `jsdoc-plugin-url` uses the [jsdoc configuration object or json][jsdoc-config] to define the URL's that are
