@@ -2,7 +2,7 @@
 	"name": "jsdoc-plugin-url",
 	"version": "1.0.0",
 	"description": "Generate jsdoc `@link` inline tags from `@url` inline tags and a configuration object.",
-	"license": "Apache 2.0",
+	"license": "Apache-2.0",
 	"author": {
 		"name": "Justin Beaudry",
 		"url": "https://justinbeaudry.com",
