@@ -133,7 +133,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-[npm-plugin]: JustinBeaudry/jsdoc-plugin-npm
+[npm-plugin]: https://github.com/JustinBeaudry/jsdoc-plugin-npm
 [jsdoc]: http://usejsdoc.org
 [jsdoc-inline]: http://usejsdoc.org/about-block-inline-tags.html
 [jsdoc-plugins]: http://usejsdoc.org/about-configuring-jsdoc.html#configuring-plugins
