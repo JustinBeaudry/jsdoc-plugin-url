@@ -1,0 +1,42 @@
+{
+	"name": "jsdoc-plugin-url",
+	"version": "1.0.0",
+	"description": "Generate jsdoc `@link` inline tags from `@url` inline tags and a configuration object.",
+	"license": "Apache 2.0",
+	"author": {
+		"name": "Justin Beaudry",
+		"url": "https://justinbeaudry.com",
+		"email": "me@justinbeaudry.dev"
+	},
+	"main": "lib/jsdoc-plugin-url.js",
+	"homepage": "https://github.com/JustinBeaudry/jsdoc-plugin-url",
+	"repository": "https://github.com/JustinBeaudry/jsdoc-plugin-url",
+	"bugs": "https://github.com/JustinBeaudry/jsdoc-plugin-url/issues",
+	"engines": {
+		"node": ">=4.x.x",
+		"npm": ">=3.x.x"
+	},
+	"devDependencies": {
+		"jsdoc": "3.5.5"
+	},
+	"peerDependencies": {
+		"jsdoc": ">=3.3.x"
+	},
+	"files": [
+		"lib/jsdoc-plugin-url.js"
+	],
+	"scripts": {
+		"test": "NODE_ENV=dev node tests/test"
+	},
+	"keywords": [
+		"jsdoc",
+		"JSDoc",
+		"jsdoc plugin",
+		"jsdoc plugins",
+		"plugin jsdoc",
+		"jsdoc plugin link",
+		"jsdoc plugin links",
+		"jsdoc plugin url",
+		"jsdoc plugin urls"
+	]
+}
